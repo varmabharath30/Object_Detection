@@ -9,3 +9,7 @@ Always remember that for a deep learning or machine learning model to have a goo
 -->COCO Names
 -->Mobilenet (ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt')
 --> frozen_inference_graph.pb
+
+
+![image](https://github.com/varmabharath30/Object_Detection/assets/83111946/8e978088-3763-4cde-9346-b8d3ce485797)
+
