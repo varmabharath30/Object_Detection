@@ -22,7 +22,7 @@ If we combine both the MobileNet architecture and the Single Shot Detector (SSD)
 The MobileNet SSD was first trained on the COCO dataset (Common Objects in Context) and was then fine-tuned on PASCAL VOC reaching 72.7% mAP (mean average precision).
 **Here the final Output**
 
+![image](https://github.com/varmabharath30/Object_Detection/assets/83111946/97fc9651-473e-4c53-ab0d-56436752d920)
 
-![image](https://github.com/varmabharath30/Object_Detection/assets/83111946/2e77cc37-cf77-4b11-bdaf-800a14243c30)
 
 
