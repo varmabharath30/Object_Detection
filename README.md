@@ -10,6 +10,19 @@ Always remember that for a deep learning or machine learning model to have a goo
 -->Mobilenet (ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt')
 --> frozen_inference_graph.pb
 
+The above models are latest 2020 to detect the objects
+
 
 ![image](https://github.com/varmabharath30/Object_Detection/assets/83111946/8e978088-3763-4cde-9346-b8d3ce485797)
+
+
+Combining MobileNets and Single Shot Detectors for fast, efficient deep-learning based object detection
+If we combine both the MobileNet architecture and the Single Shot Detector (SSD) framework, we arrive at a fast, efficient deep learning-based method to object detection.
+
+The MobileNet SSD was first trained on the COCO dataset (Common Objects in Context) and was then fine-tuned on PASCAL VOC reaching 72.7% mAP (mean average precision).
+**Here the final Output**
+
+
+![image](https://github.com/varmabharath30/Object_Detection/assets/83111946/2e77cc37-cf77-4b11-bdaf-800a14243c30)
+
 
